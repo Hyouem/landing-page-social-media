@@ -1,22 +1,143 @@
-# Landing Page - Agência de Social Media
+# Drew Studio Landing Page
 
-Esta é uma landing page para uma agência de social media, feita com HTML e Tailwind CSS.
+Landing page moderna e responsiva desenvolvida com HTML, TailwindCSS e Flowbite, focada em apresentação de serviços de marketing digital, fotografia, filmagem e gestão de redes sociais.
 
-## Como começar
+---
 
-1. Clone o repositório.
-2. Abra o arquivo `index.html` em um navegador para visualizar a página.
+## 📌 Sobre o Projeto
 
-## Visualizar o projeto
+O projeto foi criado para representar uma agência criativa fictícia chamada **Drew Studio**, oferecendo uma experiência visual moderna, responsiva e otimizada para navegação em dispositivos desktop e mobile.
 
-Acesse o projeto online em: [https://larissakich.github.io/landing-page-tailwind-social-media/](https://larissakich.github.io/landing-page-tailwind-social-media/)
+### A aplicação utiliza:
 
-## Tecnologias utilizadas
+- HTML5
+- TailwindCSS
+- Flowbite
+- JavaScript Vanilla
 
-- **HTML** - Estrutura da página.
-- **Tailwind CSS** - Estilização responsiva e moderna.
-  
-## Tutorial completo
+---
 
-Assista ao tutorial completo no YouTube:  
-[<img src="https://img.youtube.com/vi/2ZJ_pVsVS3Q/0.jpg" alt="YouTube" width="480"/>](https://youtu.be/2ZJ_pVsVS3Q?si=Y-62P3qebawtyAfi)
+## 🚀 Funcionalidades
+
+- ✅ Layout totalmente responsivo
+- ✅ Navegação por âncoras internas
+- ✅ Tema Dark/Light
+- ✅ Navbar fixa
+- ✅ Scroll suave
+- ✅ Sessões organizadas
+- ✅ Cards de equipe e serviços
+- ✅ Planos de preços
+- ✅ Formulário de contato
+- ✅ Footer com links internos
+- ✅ Todos os links internos protegidos
+
+---
+
+## 🖼️ Estrutura do Projeto
+
+```bash
+project/
+│
+├── index.html
+│
+├── src/
+│   ├── images/
+│   │   ├── logo/
+│   │   ├── about/git remote add origin https://github.com/Hyouem/landing-page-social-media
+│   │
+│   ├── js/
+│   │   └── script.js
+│
+└── README.md
+```
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+### Front-end
+
+- HTML5
+- TailwindCSS
+- Flowbite
+- JavaScript
+
+### Bibliotecas
+
+- Flowbite UI
+- Font Awesome
+
+---
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido utilizando utilitários responsivos do TailwindCSS, garantindo compatibilidade com:
+
+- Desktop
+- Tablets
+- Smartphones
+
+---
+
+## 🌙 Dark Mode
+
+O sistema possui alternância entre tema claro e escuro utilizando JavaScript.
+
+---
+
+## 🔗 Navegação Interna
+
+Todos os links do projeto foram ajustados para permanecerem dentro da própria aplicação utilizando âncoras internas:
+
+```html
+#home
+#about
+#services
+#team
+#prices
+#contact
+```
+
+---
+
+## ⚙️ Como Executar o Projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Hyouem/landing-page-social-media.git
+```
+
+### 2. Acesse a pasta
+
+```bash
+cd landing-page-social-media
+```
+
+### 3. Execute o projeto
+
+Basta abrir o arquivo:
+
+```bash
+index.html
+```
+
+Ou utilize a extensão:
+
+- Live Server (VSCode)
+
+---
+
+## 📸 Preview
+
+![Preview do Projeto](image.png)
+
+O projeto apresenta:
+
+- Hero Section moderna
+- Sessão institucional
+- Cards de serviços
+- Equipe
+- Planos
+- Formulário de contato
+- Footer interativo
