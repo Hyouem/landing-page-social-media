@@ -14,6 +14,12 @@ O projeto foi criado para representar uma agência criativa fictícia chamada **
 - TailwindCSS
 - Flowbite
 - JavaScript Vanilla
+---
+
+## 🌐 Acesse o Projeto
+
+🔗 **Deploy Online:**  
+[https://hyouem.github.io/landing-page-social-media/](https://landing-page-social-media-opal.vercel.app/)
 
 ---
 
