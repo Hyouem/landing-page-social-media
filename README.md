@@ -1,45 +1,46 @@
 # Drew Studio Landing Page
 
-Landing page moderna e responsiva desenvolvida com HTML, TailwindCSS e Flowbite, focada em apresentação de serviços de marketing digital, fotografia, filmagem e gestão de redes sociais.
+Modern and responsive landing page developed with HTML, TailwindCSS, and Flowbite, focused on presenting digital marketing, photography, video production, and social media management services.
 
 ---
 
-## 📌 Sobre o Projeto
+## 📌 About the Project
 
-O projeto foi criado para representar uma agência criativa fictícia chamada **Drew Studio**, oferecendo uma experiência visual moderna, responsiva e otimizada para navegação em dispositivos desktop e mobile.
+This project was created to represent a fictional creative agency called **Drew Studio**, delivering a modern, responsive visual experience optimized for both desktop and mobile navigation.
 
-### A aplicação utiliza:
+### The application uses:
 
-- HTML5
-- TailwindCSS
-- Flowbite
-- JavaScript Vanilla
----
-
-## 🌐 Acesse o Projeto
-
-🔗 **Deploy Online:**  
-[https://hyouem.github.io/landing-page-social-media/](https://landing-page-social-media-opal.vercel.app/)
+- HTML5  
+- TailwindCSS  
+- Flowbite  
+- Vanilla JavaScript  
 
 ---
 
-## 🚀 Funcionalidades
+## 🌐 Access the Project
 
-- ✅ Layout totalmente responsivo
-- ✅ Navegação por âncoras internas
-- ✅ Tema Dark/Light
-- ✅ Navbar fixa
-- ✅ Scroll suave
-- ✅ Sessões organizadas
-- ✅ Cards de equipe e serviços
-- ✅ Planos de preços
-- ✅ Formulário de contato
-- ✅ Footer com links internos
-- ✅ Todos os links internos protegidos
+🔗 **Live Deploy:**  
+https://landing-page-social-media-opal.vercel.app/
 
 ---
 
-## 🖼️ Estrutura do Projeto
+## 🚀 Features
+
+- Fully responsive layout  
+- Internal anchor navigation  
+- Dark/Light theme toggle  
+- Fixed navigation bar  
+- Smooth scrolling  
+- Organized sections  
+- Team and service cards  
+- Pricing plans  
+- Contact form  
+- Footer with internal links  
+- All internal links properly handled  
+
+---
+
+## 🖼️ Project Structure
 
 ```bash
 project/
@@ -49,7 +50,7 @@ project/
 ├── src/
 │   ├── images/
 │   │   ├── logo/
-│   │   ├── about/git remote add origin https://github.com/Hyouem/landing-page-social-media
+│   │   ├── about/
 │   │
 │   ├── js/
 │   │   └── script.js
@@ -57,9 +58,7 @@ project/
 └── README.md
 ```
 
----
-
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
 ### Front-end
 
@@ -68,16 +67,16 @@ project/
 - Flowbite
 - JavaScript
 
-### Bibliotecas
+### Libraries
 
 - Flowbite UI
 - Font Awesome
 
 ---
 
-## 📱 Responsividade
+## 📱  Responsiveness
 
-O projeto foi desenvolvido utilizando utilitários responsivos do TailwindCSS, garantindo compatibilidade com:
+The project was built using TailwindCSS responsive utilities, ensuring compatibility with:
 
 - Desktop
 - Tablets
@@ -87,13 +86,13 @@ O projeto foi desenvolvido utilizando utilitários responsivos do TailwindCSS, g
 
 ## 🌙 Dark Mode
 
-O sistema possui alternância entre tema claro e escuro utilizando JavaScript.
+The system supports light and dark theme switching using JavaScript.
 
 ---
 
-## 🔗 Navegação Interna
+## 🔗 Internal Navigation
 
-Todos os links do projeto foram ajustados para permanecerem dentro da própria aplicação utilizando âncoras internas:
+All project links were configured to remain within the application using internal anchors:
 
 ```html
 #home
@@ -106,44 +105,42 @@ Todos os links do projeto foram ajustados para permanecerem dentro da própria a
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## ⚙️ How to Run the Project
 
-### 1. Clone o repositório
+### 1.  Clone the repository
 
 ```bash
 git clone https://github.com/Hyouem/landing-page-social-media.git
 ```
 
-### 2. Acesse a pasta
+### 2. Enter the project folder
 
 ```bash
 cd landing-page-social-media
 ```
 
-### 3. Execute o projeto
+### 3. Run the project
 
-Basta abrir o arquivo:
+Simply open:
 
 ```bash
 index.html
 ```
 
-Ou utilize a extensão:
+Or use:
 
 - Live Server (VSCode)
-
----
 
 ## 📸 Preview
 
 <img width="1899" height="905" alt="image" src="https://github.com/user-attachments/assets/a2631318-2110-427b-8881-794a5baecc71" />
 
-O projeto apresenta:
+The project includes:
 
-- Hero Section moderna
-- Sessão institucional
-- Cards de serviços
-- Equipe
-- Planos
-- Formulário de contato
-- Footer interativo
+- Modern hero section
+- Institutional/about section
+- Service cards
+- Team section
+- Pricing plans
+- Contact form
+- Interactive footer
