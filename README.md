@@ -130,7 +130,7 @@ Ou utilize a extensão:
 
 ## 📸 Preview
 
-![Preview do Projeto](image.png)
+<img width="1899" height="905" alt="image" src="https://github.com/user-attachments/assets/a2631318-2110-427b-8881-794a5baecc71" />
 
 O projeto apresenta:
 
